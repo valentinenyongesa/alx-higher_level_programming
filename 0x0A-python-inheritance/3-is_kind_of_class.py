@@ -12,6 +12,6 @@ def is_kind_of_class(obj, a_class):
         True if the object is an instance of a class
         Otherwisw False
     """
-    if type(obj) == a_class:
+    if isinstance(obj, a_class):
         return True
     return False
