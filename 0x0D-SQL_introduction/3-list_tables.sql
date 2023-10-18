@@ -1,2 +1,2 @@
---Lists all tables
+-- Lists all tables
 SWOW tables;
