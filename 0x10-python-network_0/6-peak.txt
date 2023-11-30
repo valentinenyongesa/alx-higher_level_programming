@@ -1,0 +1,2 @@
+#Find a peak
+O(log(n))
